@@ -38,4 +38,3 @@ export const deleteTodo = contactId => dispatch => {
 }
 
 
-//export default { addContact}
